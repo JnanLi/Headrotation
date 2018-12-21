@@ -1,2 +1,2 @@
 # Headrotation
-用文本驱动头部三维旋转
+a work to make head move by text.
